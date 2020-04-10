@@ -1,4 +1,5 @@
 pipeline{
+	agent any
 	stages("automation"){
 		stage("playurl-downurl"){
 			steps{
