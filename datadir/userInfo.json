@@ -1,0 +1,21 @@
+{
+  "TOURIST": {},
+  "NOT_MEMBER": {
+    "mobile": "18352671458",
+    "userId": "157156190",
+    "userToken": "37ADBA889DF62AF841BA",
+    "SDKCEId": "7a9582bd-8660-4f1a-9d0f-8451f688c67b"
+  },
+  "MEMBER": {
+    "mobile": "15800447240",
+    "userId": "353775779",
+    "userToken": "33551DA9A9232D356BFE",
+    "SDKCEId": "7a9582bd-8660-4f1a-9d0f-8451f688c67b"
+  },
+  "SUPPER_MEMBER": {
+    "mobile": "13795274234",
+    "userId": "00000000",
+    "userToken": "6992EA0FDEC92FC8DEDA",
+    "SDKCEId": "7a9582bd-8660-4f1a-9d0f-8451f688c67b"
+  }
+}

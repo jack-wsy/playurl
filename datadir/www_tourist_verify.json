@@ -1,0 +1,688 @@
+{
+  "TOURIST": {
+    "EPISODES_SINGLE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "NOT_EPISODES_SINGLE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "LIVE_FREE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgsplive.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgsplive.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgsplive.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgsplive.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgsplive.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "LIVE_LOOK_BACK_FREE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgsplive.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgsplive.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgsplive.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgsplive.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgsplive.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "ABLUM_SINGLE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "5G_ORIGINAL_PAINTING": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "VIP_EPISODES_SINGLE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "VIP_NOT_EPISODES_SINGLE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "VIP_LIVE": {
+      "480P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "VIP_LIVE_LOOK_BACK": {
+      "480P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "VIP_ABLUM_SINGLE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "gslbmgspvod.miguvideo.com",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "H5_EPISODES_SINGLE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "H5_NOT_EPISODES_SINGLE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "H5_LIVE_FREE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5live.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5live.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5live.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5live.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5live.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "H5_LIVE_LOOK_BACK_FREE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5live.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5live.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5live.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5live.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5live.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "H5_ABLUM_SINGLE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "H5_5G_ORIGINAL_PAINTING": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "tourist",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "H5_VIP_EPISODES_SINGLE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "H5_VIP_NOT_EPISODES_SINGLE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "H5_VIP_LIVE": {
+      "480P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "H5_VIP_LIVE_LOOK_BACK": {
+      "480P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "409",
+        "rid": "TIPS_NEED_LOGIN",
+        "body.advertInfo.isAdvert": "3"
+      }
+    },
+    "H5_VIP_ABLUM_SINGLE": {
+      "480P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "540P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "720P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "1080P": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      },
+      "50-original-painting": {
+        "code": "200",
+        "body.urlInfo.urlType": "trial",
+        "body.urlInfo.url": "h5vod.gslb.cmvideo.cn",
+        "body.advertInfo.isAdvert": "3"
+      }
+    }
+  }
+}

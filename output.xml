@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot rpa="false" generated="20200406 22:33:07.916" generator="Robot 3.1.2 (Python 3.5.0 on win32)">
+<suite source="E:\playurl\tc" id="s1" name="Tc">
+<suite source="E:\playurl\tc\not_member_case" id="s1-s1" name="Not Member Case">
+<kw name="Get File Data" library="myfunction" type="setup">
+<doc>从json文件中获取数据，并返回
+:param filename: 文件名
+:param key: 需要获取到数据的key的集合
+:param id_save: 需要设置为全局变量时传值
+:return: 测试数据</doc>
+<arguments>
+<arg>userInfo</arg>
+<arg>NOT_MEMBER</arg>
+<arg>id_save=not_member_user</arg>
+</arguments>
+<msg level="INFO" timestamp="20200406 22:33:07.968">${not_member_user} = {'SDKCEId': '7a9582bd-8660-4f1a-9d0f-8451f688c67b', 'userToken': '37ADBA889DF62AF841BA', 'userId': '157156190', 'mobile': '18352671458'}</msg>
+<status endtime="20200406 22:33:07.968" starttime="20200406 22:33:07.967" status="PASS"></status>
+</kw>
+<suite source="E:\playurl\tc\not_member_case\downurl" id="s1-s1-s1" name="Downurl">
+<suite source="E:\playurl\tc\not_member_case\downurl\5g_original_painting.robot" id="s1-s1-s1-s1" name="5G Original Painting">
+<kw name="Run Keyword" library="BuiltIn" type="setup">
+<doc>Executes the given keyword with the given arguments.</doc>
+<arguments>
+<arg>get file data</arg>
+<arg>contId</arg>
+<arg>5G_ORIGINAL_PAINTING</arg>
+<arg>id_save=not_member_downurl_5g_original_painting_contId</arg>
+</arguments>
+<kw name="Get File Data" library="myfunction">
+<doc>从json文件中获取数据，并返回
+:param filename: 文件名
+:param key: 需要获取到数据的key的集合
+:param id_save: 需要设置为全局变量时传值
+:return: 测试数据</doc>
+<arguments>
+<arg>contId</arg>
+<arg>5G_ORIGINAL_PAINTING</arg>
+<arg>id_save=not_member_downurl_5g_original_painting_contId</arg>
+</arguments>
+<msg level="INFO" timestamp="20200406 22:33:08.162">${not_member_downurl_5g_original_painting_contId} = 657260390</msg>
+<status endtime="20200406 22:33:08.162" starttime="20200406 22:33:08.160" status="PASS"></status>
+</kw>
+<status endtime="20200406 22:33:08.162" starttime="20200406 22:33:08.160" status="PASS"></status>
+</kw>
+<test id="s1-s1-s1-s1-t1" name="not_member-get-downurl-5g-original-painting-50-original_painting">
+<kw name="Get Downurl" library="pylib.downloadurl.DownLoadUrl">
+<doc>inner函数，将url、param、header、result写入log日志中，方便定位问题
+:param self: 当前对象
+:param args: 函数带入的参数
+:param kwargs: 函数带入的参数
+:return: 接口返回值</doc>
+<arguments>
+<arg>${not_member_downurl_5g_original_painting_contId}</arg>
+<arg>${salt}</arg>
+<arg>${sign}</arg>
+<arg>${timestamp}</arg>
+<arg>${original_painting}</arg>
+</arguments>
+<assign>
+<var>${result}</var>
+</assign>
+<msg level="INFO" timestamp="20200406 22:33:08.378">url------&gt;: http://183.192.162.101:8084/playurl/v1/down/downurl
+</msg>
+<msg level="INFO" timestamp="20200406 22:33:08.378">header---&gt;: {'SDKCEId': '7a9582bd-8660-4f1a-9d0f-8451f688c67b', 'userToken': '37ADBA889DF62AF841BA', 'userId': '157156190', 'mobile': '18352671458'}
+</msg>
+<msg level="INFO" timestamp="20200406 22:33:08.378">param----&gt;: {'contIds': 657260390, 'uc': '', 'dolby': '', 'timestamp': '1585221370298', 'mt': '', 'salt': '82525199', 'sign': 'fd81a0c5b385077c6675bcf19610e87c', 'rateType': '7', 'h265': '', 'nt': '', 'vr': ''}
+</msg>
+<msg level="INFO" timestamp="20200406 22:33:08.378">result---&gt;: {'info': None, 'playCode': None, 'timeStamp': 1586183589849, 'message': 'Response OK!', 'code': '200', 'httpmessage': None, 'body': [{'url': None, 'usageCode': None, 'rateDesc': None, 'desc': 'Forbidden!', 'needClothHat': False, 'urlType': None, 'codeRate': None, 'videoCoding': None, 'contId': None, 'hdCodeType': None, 'definitionRightSource': None, 'trySeeDuration': None, 'authRightSource': None, 'resultCode': None, 'mediaType': None, 'rateType': None, 'mediaSize': 0, 'code': '403', 'hdEquityInfo': None, 'iconImgUrl': None, 'rid': 'DOWNLOAD_FORBIDEN_TRIAL'}], 'rid': ''}
+</msg>
+<msg level="INFO" timestamp="20200406 22:33:08.378">${result} = {'info': None, 'playCode': None, 'timeStamp': 1586183589849, 'message': 'Response OK!', 'code': '200', 'httpmessage': None, 'body': [{'url': None, 'usageCode': None, 'rateDesc': None, 'desc': 'Forbidd...</msg>
+<status endtime="20200406 22:33:08.378" starttime="20200406 22:33:08.164" status="PASS"></status>
+</kw>
+<kw name="Get File Data" library="myfunction">
+<doc>从json文件中获取数据，并返回
+:param filename: 文件名
+:param key: 需要获取到数据的key的集合
+:param id_save: 需要设置为全局变量时传值
+:return: 测试数据</doc>
+<arguments>
+<arg>not_member_verify</arg>
+<arg>NOT_MEMBER</arg>
+<arg>5G_ORIGINAL_PAINTING</arg>
+<arg>DOWN_50-original-painting</arg>
+</arguments>
+<assign>
+<var>${verify_value}</var>
+</assign>
+<msg level="INFO" timestamp="20200406 22:33:08.380">${verify_value} = {'body.code': '403', 'code': '200'}</msg>
+<status endtime="20200406 22:33:08.380" starttime="20200406 22:33:08.379" status="PASS"></status>
+</kw>
+<kw name="Verify Result" library="pylib.downloadurl.DownLoadUrl">
+<doc>判断接口返回值是否符合预期，符合返回True，不符合返回False
+:param result: 接口返回值
+:param kwargs: 用来验证接口返回是否符合预期的数据
+:return: True / False</doc>
+<arguments>
+<arg>${result}</arg>
+<arg>&amp;{verify_value}</arg>
+</arguments>
+<assign>
+<var>${verify}</var>
+</assign>
+<msg level="INFO" timestamp="20200406 22:33:08.382">${verify} = True</msg>
+<status endtime="20200406 22:33:08.382" starttime="20200406 22:33:08.381" status="PASS"></status>
+</kw>
+<kw name="Should Be True" library="BuiltIn">
+<doc>Fails if the given condition is not true.</doc>
+<arguments>
+<arg>${verify}</arg>
+</arguments>
+<status endtime="20200406 22:33:08.382" starttime="20200406 22:33:08.382" status="PASS"></status>
+</kw>
+<doc>非会员下载5G原画节目-原画50帧</doc>
+<tags>
+<tag>5g-original-painting</tag>
+<tag>DOWNURL</tag>
+<tag>NOT_MEMBER_USER</tag>
+</tags>
+<status critical="yes" endtime="20200406 22:33:08.383" starttime="20200406 22:33:08.162" status="PASS"></status>
+</test>
+<status endtime="20200406 22:33:08.384" starttime="20200406 22:33:07.971" status="PASS"></status>
+</suite>
+<status endtime="20200406 22:33:08.386" starttime="20200406 22:33:07.968" status="PASS"></status>
+</suite>
+<status endtime="20200406 22:33:08.387" starttime="20200406 22:33:07.950" status="PASS"></status>
+</suite>
+<status endtime="20200406 22:33:08.388" starttime="20200406 22:33:07.919" status="PASS"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="0" pass="1">Critical Tests</stat>
+<stat fail="0" pass="1">All Tests</stat>
+</total>
+<tag>
+<stat fail="0" pass="1">5g-original-painting</stat>
+<stat fail="0" pass="1">DOWNURL</stat>
+<stat fail="0" pass="1">NOT_MEMBER_USER</stat>
+</tag>
+<suite>
+<stat fail="0" id="s1" pass="1" name="Tc">Tc</stat>
+<stat fail="0" id="s1-s1" pass="1" name="Not Member Case">Tc.Not Member Case</stat>
+<stat fail="0" id="s1-s1-s1" pass="1" name="Downurl">Tc.Not Member Case.Downurl</stat>
+<stat fail="0" id="s1-s1-s1-s1" pass="1" name="5G Original Painting">Tc.Not Member Case.Downurl.5G Original Painting</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

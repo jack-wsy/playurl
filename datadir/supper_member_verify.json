@@ -1,0 +1,44 @@
+{
+  "SUPPER_MEMBER": {
+    "VR-4K-800": {
+      "4K": {
+        "code": "200",
+        "body.urlInfo.urlType": "normal",
+        "body.urlInfo.url": "mgvrgslb.vod.miguvideo.com",
+        "body.urlInfo.usageCode": "800"
+      }
+    },
+    "VR-4K-801": {
+      "4K": {
+        "code": "200",
+        "body.urlInfo.urlType": "normal",
+        "body.urlInfo.url": "mgvrgslb.vod.miguvideo.com",
+        "body.urlInfo.usageCode": "801"
+      }
+    },
+    "VR-4K-802": {
+      "4K": {
+        "code": "200",
+        "body.urlInfo.urlType": "normal",
+        "body.urlInfo.url": "mgvrgslb.vod.miguvideo.com",
+        "body.urlInfo.usageCode": "802"
+      }
+    },
+    "VR-4K-805": {
+      "4K": {
+        "code": "200",
+        "body.urlInfo.urlType": "normal",
+        "body.urlInfo.url": "mgvrgslb.vod.miguvideo.com",
+        "body.urlInfo.usageCode": "805"
+      }
+    },
+    "VR-4K-805-bak": {
+      "4K": {
+        "code": "200",
+        "body.urlInfo.urlType": "normal",
+        "body.urlInfo.url": "mgvrgslb.vod.miguvideo.com",
+        "body.urlInfo.usageCode": "805"
+      }
+    }
+  }
+}
